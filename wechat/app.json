@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/component/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "enablePullDownRefresh": "true",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Run! Zuck!",
+    "navigationBarTextStyle":"black"
+  }
+}
